@@ -1,5 +1,5 @@
 const menuOptions = [
-    {title: 'Portfolio', link: '../PortfolioPage/PortfolioMainPage.html'},
+    {title: 'Portfolio', link: './PortfolioPage/PortfolioMainPage.html'},
     {title: 'Blog', link: '../Blogs/AllBlogsP1.html'},
     {title: 'About Me', link: '../AboutPage/AboutMePage.html'},
     {title: 'Contact Me', link: '../ContactPage/ContactMePage.html'}
