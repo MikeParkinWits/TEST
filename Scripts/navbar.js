@@ -9,7 +9,7 @@ const menuOptions = [
 const initialiseMenuLogo = (ul) => {
     const li = document.createElement('li');
     const link = document.createElement('a');
-    link.href = '../index.html';
+    link.href = './index.html';
     const image = document.createElement('img');
     image.src = './Images/Logo.png';
     image.width = 200;
